@@ -1,6 +1,6 @@
 # Tugas Pemograman Web 2 (Layout Sederhana)
 ## Profil
-| #               | Biodata             |
+|                 | Biodata             |
 | --------------- | ------------------- |
 | **Nama**        | Alwan Luthfi        |
 | **NIM**         | 312110296           |
