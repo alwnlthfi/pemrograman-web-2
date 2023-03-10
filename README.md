@@ -8,6 +8,6 @@
 
 - Membuat layout sederhana menggunakan HTML dan CSS
 
-![Gambar 1](img/example.png)
+![Gambar 1](img/Example.png)
 
 ## Terima Kasih
