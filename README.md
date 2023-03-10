@@ -1,7 +1,7 @@
 # Tugas Pemograman Web 2 (Layout Sederhana)
 ## Profil
 | --------------- | ------------------- |
-| **Nama**        | Alwan LuTHFI        |
+| **Nama**        | Alwan Luthfi        |
 | **NIM**         | 312110296           |
 | **Kelas**       | TI.21.A.1           |
 | **Mata Kuliah** | Pemrograman Web 2   |
